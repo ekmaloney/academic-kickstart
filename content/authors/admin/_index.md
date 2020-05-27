@@ -18,7 +18,7 @@ organizations:
   url: "https://sociology.duke.edu/people/emily-maloney"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include identity, emotion, and political sociology.
 
 interests:
 - Identity & Emotion
@@ -55,7 +55,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: files/Maloney_CV_19.pdf
+   link: files/CV_0520.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
